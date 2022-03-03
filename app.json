@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Blu Bank",
+    "slug": "bluBank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/icon1.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#008fff"
+    },
+    "android": {
+      "package": "com.ryanmwakio254.bluBank"
+    }
+  },
+  "name": "Blu Bank",
+  "android": {
+    "package": "ryanmwakio.blubank",
+    "adaptiveicon": {
+      "icon": "./assets/icon1.png",
+      "backgroundColor": "#008fff"
+    }
+  }
+}
